@@ -13,3 +13,5 @@ Project Highlights:
 - Tested all endpoints using Postman for API validation.
 
 - Built queries and performed database operations through API requests.
+
+<img width="1433" height="1005" alt="Screenshot 2025-08-11 004053" src="https://github.com/user-attachments/assets/780ecf9d-ac00-4365-a14e-732ddb5d4cf9" />
